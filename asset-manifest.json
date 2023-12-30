@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recipe-project/static/css/main.42b70def.css",
+    "main.js": "/recipe-project/static/js/main.5220a1ae.js",
+    "index.html": "/recipe-project/index.html",
+    "main.42b70def.css.map": "/recipe-project/static/css/main.42b70def.css.map",
+    "main.5220a1ae.js.map": "/recipe-project/static/js/main.5220a1ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42b70def.css",
+    "static/js/main.5220a1ae.js"
+  ]
+}
