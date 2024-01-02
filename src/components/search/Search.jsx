@@ -23,7 +23,7 @@ const Search = ({cb = Function.prototype}) => {
             onChange={(e) => setValue(e.target.value)}
             value={value}
             />
-            <button className='btn' onClick={handleKey} style={{position:"absolute",top:0,right:0}}>search</button>
+            <button className='btn' onClick={handleSubmit} style={{position:"absolute",top:0,right:0}}>search</button>
         </div>
     </div>
   )
